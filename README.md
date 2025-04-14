@@ -12,6 +12,8 @@ Reference（參照/外鍵）
 
 這些是設計 星狀（Star Schema）或雪花狀（Snowflake Schema）資料模型時的核心觀念。
 
+data point 引入logic Report columnName ReportLogic
+
 🔍 1. 持續監控（Monitoring）
 👉 是什麼意思？
 在程式執行或資料處理的系統中「持續監控」通常指的是：
